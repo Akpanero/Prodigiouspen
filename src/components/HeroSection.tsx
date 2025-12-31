@@ -1,5 +1,5 @@
 import { motion, useScroll, useTransform } from "framer-motion";
-import heroImage from "@/assets/images/hero-image.jpg";
+import heroImage from "@/Assets/images/hero-image.jpg";
 import { useRef } from "react";
 import { ArrowDown } from "lucide-react";
 
