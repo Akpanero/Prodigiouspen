@@ -108,7 +108,7 @@ const HeroSection = () => {
                 transition={{ duration: 0.6, delay: 0.2, ease: "easeOut" }}
                 className="text-3xl md:text-4xl lg:text-6xl font-bold text-foreground mb-6"
               >
-                Growing YouTube Empires{" "}
+                Growing YouTube Empires...{" "}
                 {/* <span role="img" aria-label="test tube"></span> */}
               </motion.h1>
 
