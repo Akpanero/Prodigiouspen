@@ -18,7 +18,7 @@ const testimonials = [
     image:
       EliteFoot,
     name: "EliteFoot",
-    subscribers: "20.9m views",
+    subscribers: "60.9m views",
     quote:
       "Working with Prodigious Pen transformed our channel. The scripts changed everything, we broke our plateau and grew from 10M to 60M+ views, and 50K to 130K subscribers.",
     link: "https://www.youtube.com/@EliteFoot10",
@@ -27,7 +27,7 @@ const testimonials = [
     image:
       Groundglory,
     name: "GroundGlory Goalkeeping",
-    subscribers: "12.5m views",
+    subscribers: "14.5m views",
     quote:
       "Our channel had no viral momentum. Israel’s storytelling scripts unlocked everything, we grew from 10K to 60K+ subscribers and crossed 13 million total views.",
     link: "https://www.youtube.com/@GroundGloryGoalkeeping",
@@ -62,7 +62,7 @@ const testimonials = [
     image:
       Abovethegooal,
     name: "AboveTheGooal",
-    subscribers: "319k views",
+    subscribers: "719k views",
     quote:
       "We had ideas but no proper team. Prodigious Pen rebuilt everything scripts, editors, execution and in under three months we passed 600K views consistently.",
     link: "https://www.youtube.com/@AboveTheGooal",
