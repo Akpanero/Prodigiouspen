@@ -131,7 +131,7 @@ const TestimonialsSection = () => {
           transition={{ duration: 0.6, delay: 0.2, ease: "easeOut" }} 
           className="text-3xl md:text-4xl lg:text-5xl font-bold text-foreground text-center mb-16"
         >
-          The System Behind These Results
+          Some Of My Current Partners...
         </motion.h2>
 
         {/* Carousel Container */}
